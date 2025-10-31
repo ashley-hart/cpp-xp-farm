@@ -1,2 +1,2 @@
 # cpp-xp-farm
-Learning C++ w/ SFML for game development
+Tracking my journey with C++ and other tools/skills for game development
