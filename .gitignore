@@ -3,6 +3,7 @@
 
 # VS Code files
 .vs/
+.vscode/
 
 # C++ build artifacts
 *.o
