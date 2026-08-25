@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/ahart/Documents/Code/cpp-xp-farm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/program.dir/hello.cpp.o -c /Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/hello.cpp",
+  "file": "/Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/hello.cpp",
+  "output": "CMakeFiles/program.dir/hello.cpp.o"
+},
+{
+  "directory": "/Users/ahart/Documents/Code/cpp-xp-farm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/program.dir/main.cpp.o -c /Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/main.cpp",
+  "file": "/Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/main.cpp",
+  "output": "CMakeFiles/program.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/ahart/Documents/Code/cpp-xp-farm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/program.dir/math.cpp.o -c /Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/math.cpp",
+  "file": "/Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/math.cpp",
+  "output": "CMakeFiles/program.dir/math.cpp.o"
+},
+{
+  "directory": "/Users/ahart/Documents/Code/cpp-xp-farm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/program.dir/utils.cpp.o -c /Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/utils.cpp",
+  "file": "/Users/ahart/Documents/Code/cpp-xp-farm/cherno-cpp/utils.cpp",
+  "output": "CMakeFiles/program.dir/utils.cpp.o"
+}
+]

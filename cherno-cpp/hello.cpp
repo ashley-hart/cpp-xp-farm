@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int hello() {
     cout << "Hello C++ XP Farm" << endl;
     return 0;
 }
