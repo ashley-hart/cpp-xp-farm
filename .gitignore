@@ -2,6 +2,7 @@
 .DS_Store
 
 # VS Code files
+.vs/
 
 # C++ build artifacts
 *.o

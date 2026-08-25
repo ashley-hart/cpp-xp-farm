@@ -1,3 +1,4 @@
+# Reference: https://learn.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=msvc-170
 cmake_minimum_required(VERSION 3.15)
 project(cpp-xp-farm LANGUAGES CXX)
 
